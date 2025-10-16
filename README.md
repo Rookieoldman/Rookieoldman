@@ -1,27 +1,23 @@
 <div align="center">
+
+  # 👋 ¡Hola Mundo! Soy Uri 🚀
   
-  # 👋 ¡Hola! Soy Oriol, pero llámame Uri 🚀
+  ### Desarrollador Mobile Junior | Recién Graduado y Construyendo el Futuro de las Apps.
   
-  ### 📱 Desarrollador Mobile Enthusiast | Construyendo Apps Nativas y Sostenibles
-  
-  <p>Recién graduado y listo para transformar ideas en experiencias fluidas en iOS y Android. Me apasiona el código limpio, las arquitecturas modernas y, sobre todo, llevar el software de calidad a la palma de tu mano.</p>
-  
+  <p>Mi pasión es transformar ideas en experiencias de usuario fluidas en iOS y Android. Estoy buscando activamente mi primera oportunidad para demostrar mi valía y crecer en el sector IT.</p>
+
   ---
   
-  ## 🌟 Mi Foco: Ecosistemas Mobile
+  ## 🛠️ Mi Mobile Stack
   
-  Me encanta la magia de las plataformas nativas. Mi principal objetivo es dominar las herramientas que definen el futuro de las aplicaciones móviles:
+  Me centro en el desarrollo nativo y multiplataforma con las tecnologías que definen el mercado.
   
-  | Plataforma | Lenguaje & Framework | Iconos de Colores |
+  | Plataforma | Lenguajes Principales | UI Toolkit |
   | :--- | :--- | :--- |
-  | **Android** (Google) | Kotlin (Compose), Java | 🟢 ⚫ |
-  | **iOS** (Apple) | Swift (SwiftUI) | 🔵 ⚪ |
+  | **Android** (Google) | Kotlin, Java | Jetpack Compose |
+  | **iOS** (Apple) | Swift | SwiftUI |
   
   <br>
-  
-  ## 🛠️ Herramientas y Lenguajes que Manejo
-  
-  Aquí tienes mi "toolbox" actual. Siempre explorando y mejorando:
   
   <p>
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
@@ -29,49 +25,37 @@
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
     </p>
+
+  ---
+
+  ## ✨ Proyectos Clave
   
+  Mis proyectos son el reflejo de mis habilidades y mi compromiso con el código.
+  
+  ### 🌍 Eco-Connect (App Mobile de Proximidad)
+  * **Objetivo:** Compraventa local de alimentos para reducir la huella de carbono (ecosostenibilidad).
+  * **Skills:** UX/UI Mobile, Lógica de Geolocalización, Backend As a Service (BaaS) *si lo usas*.
+  
+  ### 🏢 SAAS de RRHH (En desarrollo)
+  * **Objetivo:** Desarrollar un Sistema de gestión empresarial para Recursos Humanos (RRHH).
+  * **Skills:** Arquitectura de software, SQL/NoSQL, Desarrollo Full-Stack.
+
   ---
   
-  ## ✨ Proyectos Destacados (Mi Portafolio Activo)
+  ## 📚 Siempre Aprendiendo
   
-  Como desarrollador junior, mis proyectos son mi currículum. Aquí están las iniciativas que demuestran mis habilidades:
-  
-  ### 🌍 Eco-Connect (Mobile App - Concepto)
-  * **Descripción:** Aplicación de compraventa de alimentos de proximidad.
-  * **Objetivo:** Acercar al productor y al consumidor para reducir la huella de carbono y fomentar la ecosostenibilidad.
-  * **Skills Demostradas:** UX/UI para Mobile, Lógica de Geoposicionamiento, CRUD (Crear, Leer, Actualizar, Borrar) de datos.
-  * **Estado:** Desarrollo inicial y planificación de arquitectura.
-  
-  ### 🏢 SAAS de Gestión de RRHH (Web/Backend - En Desarrollo)
-  * **Descripción:** Sistema de gestión empresarial para recursos humanos (RRHH).
-  * **Objetivo:** Aprender el desarrollo de un SAAS completo, desde el backend hasta el frontend de gestión.
-  * **Skills Demostradas:** Arquitectura de software escalable, Manejo de Bases de Datos, Autenticación.
-  
+  * **Kotlin Multiplatform (KMP):** Enfocado en código compartido para eficiencia.
+  * **Clean Architecture:** Implementando MVVM/MVI para código escalable.
+
   ---
   
-  ## 🔭 Aprendizaje Continuo (Lo que estoy estudiando ahora)
+  ## 💬 Conecta Conmigo
   
-  ¡La curiosidad nunca para! Estoy invirtiendo mi tiempo en las tendencias que definen el futuro multiplataforma:
+  Estoy buscando mi primera gran oportunidad en IT. ¡Hablemos de código!
   
-  * **KMP (Kotlin Multiplatform):** Buscando compartir código entre iOS y Android.
-  * **SwiftUI & Jetpack Compose:** Dominando los *toolkits* declarativos para UI moderna.
-  * **Arquitecturas Limpias:** Aplicando patrones como MVVM/MVI para código escalable.
-  
-  ---
-  
-  ## 🎯 Buscando mi Oportunidad
-  
-  Estoy activamente buscando mi **primer puesto como Desarrollador Junior Mobile**. Deseo unirme a un equipo donde pueda demostrar mi valía, aportar mi entusiasmo y crecer rápidamente en el mundo IT.
-  
-  ¡Hablemos de código, de apps y de cómo puedo ayudarte a construir la tuya!
-  
-  <br>
-  
-  ### 📧 Conéctate conmigo:
-  
-  | Plataforma | Enlace |
-  | :--- | :--- |
-  | **LinkedIn** | [Tu Enlace a LinkedIn] |
-  | **Email** | [Tu Correo Electrónico] |
+  <p>
+    <a href="https://www.linkedin.com/in/oriol-estero-354899295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="mailto:[oriolestero@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  </p>
   
 </div>
